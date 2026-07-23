@@ -1,0 +1,13 @@
+# MATLAB
+*.m~
+*.fig~
+*.asv
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
